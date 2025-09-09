@@ -1,8 +1,8 @@
-# 🌟 Ramesh Nair – Microservices Portfolio
+# 🌟 E-commerce Portfolio
 
 > *“Building backend systems with clarity, strategy, and craftsmanship — inspired by Krishna’s wisdom: calm, strategic, and precise in every action.”*
 
-Welcome to my **Microservices Portfolio** — a showcase of **production-grade Spring Boot microservices** demonstrating **scalability, maintainability, and real-world problem-solving**.  
+Welcome to my **E-commerce Portfolio** — a showcase of **production-grade Spring Boot microservices** demonstrating **scalability, maintainability, and real-world problem-solving**.  
 
 ---
 
